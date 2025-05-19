@@ -13,6 +13,7 @@
         ①  Global constants / variables
         ②  OLED graphics helpers
         ③  Servo motion helpers
+  Follow the Instructions or you're out!
   ───────────────────────────────────────────────────────────────────────
 */
 
