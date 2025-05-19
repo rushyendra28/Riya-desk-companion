@@ -21,6 +21,9 @@ Try it yourself with the complete setup.
 4. A few jumper cables.
 5. A breadboard for easy wiring.
 
+# Checkout for Connections.
+![image](https://github.com/user-attachments/assets/58ba439b-c02c-482f-9e4e-d60ea7a1592b)
+
 
 
 https://github.com/user-attachments/assets/52c87f38-6a16-4dc9-8645-cb31492774c7
