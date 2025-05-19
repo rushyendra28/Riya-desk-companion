@@ -1,12 +1,12 @@
 ﻿# Riya-desk-companion
 
-Yesu: Riya ekkada?
-Akash: Riya evaru?
-Yesu: Domni daugther.
-Akash: Domni evaru?
-Yesu: Riya mother.
-Akash: Vellu idharu evaru?
-Yesu: Mother and Daughter.
+- Yesu: Riya ekkada?
+- Akash: Riya evaru?
+- Yesu: Domni daugther.
+- Akash: Domni evaru?
+- Yesu: Riya mother.
+- Akash: Vellu idharu evaru?
+- Yesu: Mother and Daughter.
 
 # This an Expressive head only companion that moves its head and observes your environment.
 
